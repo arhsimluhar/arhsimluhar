@@ -9,7 +9,7 @@ I'm Rahul Mishra, Senior Software developer at Autodesk.
 - 💬 Ask me about C++/python/goland and large-scale systems.
 - 📫 How to reach me: https://www.linkedin.com/in/arhsimluhar/
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm handed Left-handed with AB- blood, i'm kind of rare person ..😄
+- ⚡ Fun fact: I'm handed Left-handed with AB- blood, i'm kind of a rare person ..😄
 
 <br>
 
