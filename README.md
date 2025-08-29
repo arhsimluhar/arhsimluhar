@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rahul Mishra, Senior Software Developer at Autodesk.
+I'm Rahul Mishra, Principal Engineer at Autodesk.
 
 - 🔭 I’m currently working on something interesting
 - 🌱 I’m currently learning about financial markets
