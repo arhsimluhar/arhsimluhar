@@ -45,7 +45,4 @@ I'm Rahul Mishra, Principal Engineer at Autodesk.
 </div>
 
 ## Github Streak 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=arhsimluhar&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arhsimluhar&label=Profile%20views&color=0e75b6&style=flat" alt="arhsimluhar" /> </p>
